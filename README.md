@@ -55,9 +55,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
-👤
+## 👤 Author <a name="authors"></a>
 - GitHub: [@imranhossainemi](https://github.com/imranhossainemi)
 - Twitter: [@DevImranHossain](https://twitter.com/DevImranHossain)
 
